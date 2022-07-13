@@ -1,1 +1,1 @@
-# clickschool-cursgit
+# Participanți la Cursul Click School

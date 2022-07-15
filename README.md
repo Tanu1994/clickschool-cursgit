@@ -2,3 +2,4 @@
 Alexandru Potirlau
 Gluhoi Nadejda
 Chiril Saftiuc
+Alina Rudacevschi

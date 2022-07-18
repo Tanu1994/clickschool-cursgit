@@ -6,6 +6,3 @@ Alina Rudacevschi
 Nacu Adrian
 Nacu Adrian
 Dumitru Balaian
-
-
-Test

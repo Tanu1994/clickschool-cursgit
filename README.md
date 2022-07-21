@@ -8,3 +8,4 @@ Nacu Adrian
 Dumitru Balaian
 Mihaela Corbu
 Alexandru Fedin
+Alexandra-Luiza Popov

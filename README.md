@@ -9,3 +9,4 @@ Dumitru  - hello it's me
 Mihaela Corbu
 Alexandru Fedin
 Alexandra-Luiza Popov
+Vitalie Taranu

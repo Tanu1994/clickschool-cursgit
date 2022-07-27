@@ -4,7 +4,6 @@ Nadejda Gluhoi
 Chiril Saftiuc
 Alina Rudacevschi
 Nacu Adrian
-Nacu Adrian
 Dumitru  - hello it's me
 Mihaela Corbu
 Alexandru Fedin

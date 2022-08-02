@@ -1,6 +1,6 @@
 # Participanți la Cursul Click School
 Alex Fedin
-Dana Us :)
+Danulea
 Alexandru Potirlau
 Nadejda Gluhoi
 Chiril Saftiuc

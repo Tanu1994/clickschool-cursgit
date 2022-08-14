@@ -1,0 +1,82 @@
+.topnav {
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+.topnav a {
+   display: flex;
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    justify-content: space-around;
+    font-family: 'Kaisei Opti', serif;
+  }
+  /* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+.topnav a.active {
+    background-color: rgb(213, 166, 108);
+    color: white;
+  }
+.logo{
+    width: 50px;
+    left: 5px;
+}
+
+/* login user */
+.cont{
+  display: flex;
+  float: right;
+  width: 300px;
+  height: 350px;
+  background-color: #000;
+  text-align: center;
+  padding: 10px;
+}
+.btnn{
+  width: 240px;
+  height: 40px;
+  background:  burlywood;
+  border: none;
+  margin-top: 30px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+  transition: 0.4s ease;
+}
+.btnn:hover{
+  background: white;
+  color:  burlywood;
+}
+.btnn a{
+  text-decoration: none;
+  color: rgb(247, 247, 247);
+  font-weight: bold;
+  font-family:'Kaisei Opti', serif, white; ;
+}
+.form .link{
+  font-family: 'Kaisei Opti', serif;
+  font-size: 17px;
+  padding-top: 20px;
+  text-align: center;
+  color: whitesmoke;
+}
+.form .link a{
+  text-decoration: none;
+  color: burlywood;
+}
+.liw{
+  padding-top: 15px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Kaisei Opti', serif;
+}
